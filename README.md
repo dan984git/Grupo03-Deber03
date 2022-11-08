@@ -1,6 +1,6 @@
 # Todoapp Microfrontends Grupo2
 
-### Universidad Poliltecnica Salesiana - Maestria de Software
+### Universidad Poliltécnica Salesiana - Maestría de Software
 ### Patrones de diseño de software
 
 Grupo 3:
@@ -10,9 +10,8 @@ Grupo 3:
 - Carlos Párraga
 - Manuel Gómez
 
-Tema: Patrones Command y Memento, demo
-
-# Aplicación: Gestión de tareas: TODOs:
+# Aplicación Gestión de tareas: TODOs
+## Patrones Command y Memento
 
 ### Detalles técnicos:
 
