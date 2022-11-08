@@ -35,7 +35,6 @@
       </form>
       <small>
         Left click to toggle complete.<br/>
-        <!--        Right click to delete the todo.-->
       </small>
     </div>
   </div>
