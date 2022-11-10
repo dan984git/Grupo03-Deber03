@@ -1,4 +1,4 @@
-# Todoapp Microfrontends Grupo2
+# Todoapp Command / Memento
 
 ### Universidad Poliltécnica Salesiana - Maestría de Software
 ### Patrones de diseño de software
